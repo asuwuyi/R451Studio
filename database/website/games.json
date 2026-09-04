@@ -1,0 +1,62 @@
+[
+  {
+    "id": "lottery",
+    "name": "企鵝樂透號碼產生器",
+    "description": "想買樂透，卻不知道要選哪幾個號碼嗎?\n就由企鵝來幫你選吧",
+    "mark": "✦",
+    "status": "published",
+    "url": "games/lottery/",
+    "order": 1,
+    "visible": true
+  },
+  {
+    "id": "goddess",
+    "name": "企鵝女神的告誡",
+    "description": "注意你的選項，不用在意他的告誡XDDD",
+    "mark": "♓",
+    "status": "published",
+    "url": "games/goddess/",
+    "order": 2,
+    "visible": true
+  },
+  {
+    "id": "spot-difference",
+    "name": "找找不同",
+    "description": "在兩張圖之間，找出藏起來的小小變化。",
+    "mark": "◎",
+    "status": "published",
+    "url": "games/spot-difference/",
+    "order": 3,
+    "visible": true
+  },
+  {
+    "id": "dice",
+    "name": "Dice",
+    "description": "骰子還在口袋裡，暫時不急著擲出。",
+    "mark": "⚄",
+    "status": "coming-soon",
+    "url": "",
+    "order": 4,
+    "visible": true
+  },
+  {
+    "id": "coin",
+    "name": "Coin",
+    "description": "硬幣將在口袋裡，等待下一次決定。",
+    "mark": "◐",
+    "status": "coming-soon",
+    "url": "",
+    "order": 5,
+    "visible": true
+  },
+  {
+    "id": "fortune",
+    "name": "Fortune",
+    "description": "今日的小小訊息，還在慢慢寫給你。",
+    "mark": "☁",
+    "status": "coming-soon",
+    "url": "",
+    "order": 6,
+    "visible": true
+  }
+]

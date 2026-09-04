@@ -1,0 +1,76 @@
+{
+  "websiteBrand": {
+    "siteName": "Shi-Gai.Com",
+    "icon": "",
+    "nav": {
+      "home": "Home",
+      "works": "Works",
+      "characters": "Characters",
+      "games": "Games"
+    },
+    "pages": {
+      "works": true,
+      "characters": true,
+      "games": true
+    },
+    "controls": {
+      "globalMenu": true,
+      "globalBrand": false,
+      "worksMenu": true,
+      "worksPreviousPage": true,
+      "worksNextPage": true,
+      "workDetailBack": true,
+      "workDetailPrevious": true,
+      "workDetailNext": true,
+      "workDetailPlayPause": true,
+      "workDetailSound": true,
+      "charactersMenu": true,
+      "characterDetailBack": true,
+      "characterDetailPrevious": true,
+      "characterDetailNext": true
+    },
+    "buttonAssets": {
+      "menu": {
+        "asset": "",
+        "fallbackAsset": ""
+      },
+      "back": {
+        "asset": "",
+        "fallbackAsset": ""
+      },
+      "previous": {
+        "asset": "",
+        "fallbackAsset": ""
+      },
+      "next": {
+        "asset": "",
+        "fallbackAsset": ""
+      }
+    },
+    "footerName": "Shi-Gai",
+    "copyright": "Shi-Gai",
+    "welcome": {
+      "enabled": false,
+      "asset": "assets/site/brand/welcome-logo-1787668785393.webm",
+      "fallbackAsset": "assets/site/brand/welcome-logo-1787668785393.gif",
+      "duration": 4,
+      "interaction": {
+        "enabled": true,
+        "cursor": "pointer",
+        "action": "scene",
+        "target": "scene-1786548379879",
+        "openMode": "same-tab"
+      },
+      "animation": {
+        "enabled": true,
+        "x": 0,
+        "y": 0,
+        "scale": 3,
+        "flipX": false,
+        "duration": 3,
+        "mode": "yoyo",
+        "easing": "ease-in-out"
+      }
+    }
+  }
+}
